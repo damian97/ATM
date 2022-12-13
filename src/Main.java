@@ -3,5 +3,7 @@ public class Main {
         System.out.println("Hello world!");
 
 
+        // Udało się wypushować z ustawiony .gitignore
+
     }
 }
